@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+main {
+    width: 600px;
+    height: 800px;
+    background-color: white;
+    margin: auto;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+
+}
+div#pedro{
+    padding-left: 500px;
+}
